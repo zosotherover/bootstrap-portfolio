@@ -1,5 +1,6 @@
-.navbar {
-    
-    background-color: teal;
+.container {
+    color:teal
 
-}
+  }
+
+  <!--for some reason my style sheet isn't over-riding the bootstrap css?-->
