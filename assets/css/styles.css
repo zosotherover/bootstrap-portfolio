@@ -39,6 +39,11 @@ p {
 h5 {
   font-size: 40px;
 }
+
+ul {
+  font-size: 20px;
+  font-weight: 600;
+}
 footer {
   position: fixed;
   margin: 0px;
