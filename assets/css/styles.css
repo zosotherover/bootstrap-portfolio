@@ -1,6 +1,50 @@
+.nav-link {
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 700;
+}
+h2 {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.profile {
+  border-radius: 50%;
+  padding: 1rem;
+}
+
+p {
+  text-align: left;
+  font-size: 30px;
+  padding: 2rem;
+}
+
 .container {
-    color:teal
+  position: relative;
+}
 
-  }
+.card {
+  background-color: lightsteelblue;
+}
 
-  <!--for some reason my style sheet isn't over-riding the bootstrap css?-->
+.card-text {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 40px;
+}
+footer {
+  position: fixed;
+  margin: 0px;
+  text-align: center;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  background-color: whitesmoke;
+}
