@@ -35,7 +35,8 @@ p {
 
 .card {
   background-color: rgb(125, 135, 156);
-  border-radius: 5rem;
+  border-color: black;
+  box-shadow: 5px 10px 8px #888888;
 }
 
 .card-text {
@@ -50,6 +51,7 @@ ul {
   font-size: 20px;
   font-weight: 600;
 }
+
 footer {
   position: fixed;
   margin: 0px;
@@ -58,4 +60,9 @@ footer {
   bottom: 0;
   left: 0;
   background-color: whitesmoke;
+}
+
+img {
+  border: 1px solid black;
+  padding: 5px;
 }
